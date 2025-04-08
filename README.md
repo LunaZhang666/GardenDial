@@ -40,6 +40,8 @@ Please [open an issue](https://github.com/yourusername/GardenDial/issues) on thi
 
 GardenDial is intended for **informational use only**. Always follow the instructions and safety guidelines provided on your chemical product’s label and the Ortho Dial N Spray sprayer manual. The developer is not responsible for misuse or incorrect application.
 
+GardenDial does not collect, store, or share any personal information. The app runs entirely on-device and does not require login.
+
 ---
 
 ## 🧑‍💻 Built With
